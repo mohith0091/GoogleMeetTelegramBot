@@ -1,4 +1,4 @@
-# GoogleMeetTelegramBot
+# GoogleMeetTelegramBot By Mohith 
 Prerequirements
 1. python3
 2. geckodriver #Firefox web driver
