@@ -14,3 +14,5 @@ Prerequirements
 3. pip3 install selenium
 4. pip3 install requests
 5. python3 server.py
+
+# You need to host this on Cloud Servers... 
