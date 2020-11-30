@@ -10,10 +10,8 @@ import time
 # import pynput
 import os
 # from pynput.keyboard import Key, Controller
-from datetime import datetime
-# YEAR#MONTH#DAY#HOUR#MINUTE###### DO NOT PUT ZERO BEFORE A NUMBER
-# pause.until(datetime(2020, 3, 27, 11, 29))
-# MAIL & PASSWORD (THE MAIL U WILL USE TO ENTER TO THE MEET)
+#from datetime import datetime
+
 
 
 class Google:
